@@ -1,6 +1,3 @@
-# 2024-Fall-DS-Dev
-Fall 2024 Data Science Development Branch // Instructors and TAs only
-
 ## Class Dates, Times, and Zooms
 * Wednesday: 6:30-9:00pm - [Zoom Link](https://www.google.com/url?q=https://us02web.zoom.us/j/81988126754?pwd%3D6l3NNBocCM8AlJsXkAfrkcqaYsl9oi.1&sa=D&source=calendar&usd=2&usg=AOvVaw03XovHNCkHlLiGhi9DrwpD)
 
