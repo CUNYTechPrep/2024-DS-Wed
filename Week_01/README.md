@@ -19,7 +19,7 @@
 0. When there is 15min left in class.
 	* Close all breakout rooms and explain HW instructions and how to submit HW. 
 0. Repeat HW Process and exactly what is due when. 
-0. [Weekly feedback form]().  <-- EDIT LINK 
+0. [Weekly feedback form](https://forms.gle/VnNrD7BokpUicFhv6)
 
 
 # What's Due Monday at 12:01pm (Noon)
