@@ -10,7 +10,7 @@
 0. Live coding pandas --> Lecture.ipynb
 0. Break
 0. Explain breakout room rules. 
-0. [Setting up github.]() <-- EDIT LINK 
+0. [Setting up github.](https://github.com/CUNYTechPrep/2024-DS-Wed/blob/main/Week_01/setting-up-github.md) 
 	* Once a fellow is able to: 
 	* Push to their fork. 
 	* Put the link in the HW Submssion sheet. 
