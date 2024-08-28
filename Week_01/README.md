@@ -29,9 +29,15 @@ Submit HW in the [Wednesday's HW Submission Sheet]()  <-- EDIT LINK  .
 Detailed instructions on how to complete each of the assignments below.
 
 ## Pre-Class Videos [~30min]
-1. Watch this 
-2. Do this tutorial 
+**Submit by pasting the link to your message under the "Pre-Class Slack Link" column.** 
 
+0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
+* Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
+2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
+
+Respond in-thread in the class slack channel with at __least one thing you learned__ from the videos/reading/or tutorial.  
+
+It can be as short as one sentence, or as long as a book.
 
 ## Exercise [~1hr]
 0. Make a copy of the exercise file (see instructions above).
