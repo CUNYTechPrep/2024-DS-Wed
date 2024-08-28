@@ -8,7 +8,7 @@
 __All HWs are due at 12:01pm (Noon) the day before the next class (e.g. Tuesday at Noon)__
 
 HW due 12:01pm on Tue
-* [Wednesday's HW Submission Sheet](...) <--TA TO CREATE LINK
+* [Wednesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1h3TcC5mDSPhOuRIHJnq5qr-MHsEXfVdDxgx9s1YHWRM)
 
 ## Instructor / TA Info and Office Hours
 * Lead Instructor: Christopher Glosser
