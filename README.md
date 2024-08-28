@@ -20,4 +20,4 @@ HW due 12:01pm on Tue
 ## Current Syllabus 
 *Please replace link to your sections syllabus* 
 
-[Example Public/Student Facing Syllabus](https://docs.google.com/document/d/1kequi8PMUJLIRC8sx1M9YlTedVT4b3W6vZbArmF3sjw/edit?usp=sharing)
+[Example Public/Student Facing Syllabus](https://docs.google.com/document/d/1ZXt8FMhaiqYYmGvcDNUjBjojSmlxxQvEfx2O6vtz7hg)
