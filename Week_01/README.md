@@ -24,7 +24,7 @@
 
 # What's Due Monday at 12:01pm (Noon)
 Due 1 day before class at 12:01pm (Noon).
-Submit HW in the [Wednesday's HW Submission Sheet]()  <-- EDIT LINK  .
+Submit HW in [Wednesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1h3TcC5mDSPhOuRIHJnq5qr-MHsEXfVdDxgx9s1YHWRM/edit?gid=0#gid=0).
 
 Detailed instructions on how to complete each of the assignments below.
 
