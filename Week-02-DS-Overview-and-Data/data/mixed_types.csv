@@ -1,0 +1,7 @@
+just_ints,mixed_types,just_strings
+1, 1, one
+10, ten, ten
+20, NULL,None
+99, 99.0,N/A
+100,N/A,
+200,200,MISSING
