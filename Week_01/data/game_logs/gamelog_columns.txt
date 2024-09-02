@@ -1,0 +1,161 @@
+Date
+Number of game
+Day of week
+Visiting team
+Visiting team League
+Visiting team game number
+Home team
+Home team League
+Home team game number
+Visiting team score
+Home team score
+Length of game in outs
+Day/night indicator
+Completion information
+Forfeit information
+Protest information
+Park ID
+Attendance
+Time of game in minutes
+Visiting team line Score
+Home team line Score
+Visiting team at-bats
+Visiting team hits
+Visiting team doubles
+Visiting team triples
+Visiting team homeruns
+Visiting team RBI
+Visiting team sacrifice hits
+Visiting team sacrifice flies
+Visiting team hit-by-pitch
+Visiting team walks
+Visiting team intentional walks
+Visiting team strikeouts
+Visiting team stolen bases
+Visiting team caught stealing
+Visiting team grounded into double plays
+Visiting team awarded first on catcher's interference
+Visiting team left on base
+Visiting team pitchers used
+Visiting team individual earned runs
+Visiting team team earned runs
+Visiting team wild pitches
+Visiting team balks
+Visiting team putouts
+Visiting team assists
+Visiting team errors
+Visiting team passed balls
+Visiting team double plays
+Visiting team triple plays
+Home team at-bats
+Home team hits
+Home team doubles
+Home team triples
+Home team homeruns
+Home team RBI
+Home team sacrifice hits
+Home team sacrifice flies
+Home team hit-by-pitch
+Home team walks
+Home team intentional walks
+Home team strikeouts
+Home team stolen bases
+Home team caught stealing
+Home team grounded into double plays
+Home team awarded first on catcher's interference
+Home team left on base
+Home team pitchers used
+Home team individual earned runs
+Home team team earned runs
+Home team wild pitches
+Home team balks
+Home team putouts
+Home team assists
+Home team errors
+Home team passed balls
+Home team double plays
+Home team triple plays
+Home plate umpire ID
+Home plate umpire name
+1B umpire ID
+1B umpire name
+2B umpire ID
+2B umpire name
+3B umpire ID
+3B umpire name
+LF umpire ID
+LF umpire name
+RF umpire ID
+RF umpire name
+Visiting team manager ID
+Visiting team manager name
+Home team manager ID
+Home team manager name
+Winning pitcher ID
+Winning pitcher name
+Losing pitcher ID
+Losing pitcher name
+Saving pitcher ID
+Saving pitcher name
+Game Winning RBI batter ID
+Game Winning RBI batter name
+Visiting starting pitcher ID
+Visiting starting pitcher name
+Home starting pitcher ID
+Home starting pitcher name
+Visiting starting player 1 ID
+Visiting starting player 1 name
+Visiting starting player 1 defensive position
+Visiting starting player 2 ID
+Visiting starting player 2 name
+Visiting starting player 2 defensive position
+Visiting starting player 3 ID
+Visiting starting player 3 name
+Visiting starting player 3 defensive position
+Visiting starting player 4 ID
+Visiting starting player 4 name
+Visiting starting player 4 defensive position
+Visiting starting player 5 ID
+Visiting starting player 5 name
+Visiting starting player 5 defensive position
+Visiting starting player 6 ID
+Visiting starting player 6 name
+Visiting starting player 6 defensive position
+Visiting starting player 7 ID
+Visiting starting player 7 name
+Visiting starting player 7 defensive position
+Visiting starting player 8 ID
+Visiting starting player 8 name
+Visiting starting player 8 defensive position
+Visiting starting player 9 ID
+Visiting starting player 9 name
+Visiting starting player 9 defensive position
+Home starting player 1 ID
+Home starting player 1 name
+Home starting player 1 defensive position
+Home starting player 2 ID
+Home starting player 2 name
+Home starting player 2 defensive position
+Home starting player 3 ID
+Home starting player 3 name
+Home starting player 3 defensive position
+Home starting player 4 ID
+Home starting player 4 name
+Home starting player 4 defensive position
+Home starting player 5 ID
+Home starting player 5 name
+Home starting player 5 defensive position
+Home starting player 6 ID
+Home starting player 6 name
+Home starting player 6 defensive position
+Home starting player 7 ID
+Home starting player 7 name
+Home starting player 7 defensive position
+Home starting player 8 ID
+Home starting player 8 name
+Home starting player 8 defensive position
+Home starting player 9 ID
+Home starting player 9 name
+Home starting player 9 defensive position
+Additional information
+Acquisition information
