@@ -9,7 +9,7 @@ __All HWs are due on Tuesdays at 12:01 PM. That is the day before class.__ Put l
 
 ## Instructor / TA Info and Office Hours
 * **Lead Instructor:** Christopher Glosser
-* **Office Hours**: Thursdays 5:00 PM-6:00 PM 
+* **Office Hours**: Thursdays 6:00 PM-7:00 PM 
     * *To attend office hours, DM me on Slack during that time and I will DM you back a private meeting link.*
 * **TA Name:** Kevin Li
 * **TA Office:** Fridays 5:00 PM-6:00 PM
