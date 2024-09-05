@@ -74,8 +74,6 @@ Growing your network.
     - I did, copy and paste into sublime and did removing whitespace tricks in there. 
     - Then copy and did pd.read_clipboard() which works very well. 
 0. Now load that data into the notebook and flow into the data cleaning lecture. 
-
-
 ## Cleaning data topics
 0. Loading data, csvs, tsv, .zip, excels, clipboard, sql db
 0. Whats the deal with missing values and NaNs. 
@@ -106,8 +104,7 @@ Growing your network.
 6. JSONs and Dictionaries 
 0. Loading multiple files [nice to have]
 7. Loading files from web. [do in intro]
-9. Quickly throwing in sheets. \[`pd.to_clipboard()`\]
-6. Encoding [nice to have] 
+
 
 # HW Assignment
 Due 1 day before class at Noon, so September 10, 2024 before 12:01 PM.
