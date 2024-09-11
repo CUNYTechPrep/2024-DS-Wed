@@ -74,8 +74,6 @@ Growing your network.
     - I did, copy and paste into sublime and did removing whitespace tricks in there. 
     - Then copy and did pd.read_clipboard() which works very well. 
 0. Now load that data into the notebook and flow into the data cleaning lecture. 
-
-
 ## Cleaning data topics
 0. Loading data, csvs, tsv, .zip, excels, clipboard, sql db
 0. Whats the deal with missing values and NaNs. 
@@ -102,24 +100,18 @@ Growing your network.
 0. Exporting data and the infamous `Unnamed:` 
 0. Multiple Datatypes in One Column [more help here](https://realpython.com/python-data-cleaning-numpy-pandas/#tidying-up-fields-in-the-data) and [here](https://www.osedea.com/insight/data-cleaning-with-python)
 
-
 0. Delimiters
 6. JSONs and Dictionaries 
 0. Loading multiple files [nice to have]
 7. Loading files from web. [do in intro]
-9. Quickly throwing in sheets. [`pd.to_clipboard()`]
-6. Encoding [nice to have] 
-
-
 
 
 # HW Assignment
-Due 1 day before class at 12:01pm (Noon).
+Due 1 day before class at Noon, so September 10, 2024 before 12:01 PM.
 
 ## Pre-Class Videos
 1. Watch this 
 2. Do this tutorial 
-
 
 ## Exercise
 0. Make a copy of the exercise file (see instructions above).
@@ -127,10 +119,12 @@ Due 1 day before class at 12:01pm (Noon).
 0. Push that file to your fork. 
 0. Copy that exact link, and paste it into the HW submission sheet. 
 
-
 ## LinkedIn Post
-
-
 
 ### Other shit
 [NYC Open Data proposals](https://2025.open-data.nyc/) due Nov 1st.
+0. Push that file to your fork. 
+0. Copy that exact link, and paste it into the HW submission sheet. 
+
+
+## LinkedIn Post
