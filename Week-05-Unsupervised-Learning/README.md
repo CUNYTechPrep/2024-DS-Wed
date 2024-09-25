@@ -27,7 +27,7 @@ git push
 0. BREAK
 0. Lecture.ipynb Live Coding
 0. TEAM BREAKOUT ROOMS
-0. Review whats due for next week. [5min]
+0. Review what's due for next week. [5min]
 0. Weekly survey. (NEW-ish SURVEY)
 
 <br>
