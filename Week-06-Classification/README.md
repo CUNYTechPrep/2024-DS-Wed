@@ -1,4 +1,4 @@
-# Week 6 - Classification through the lens of Logsitic Regression
+# Week 6 - Classification through the lens of Logistic Regression
 
 
 ## Class Agenda
