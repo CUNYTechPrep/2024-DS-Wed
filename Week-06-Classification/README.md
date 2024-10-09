@@ -10,7 +10,8 @@
 	* `git push`
 1. [Google Slide Lecture](https://docs.google.com/presentation/d/1CQvOw1k0kOrRpzPOUdlXhv8OaiaApv6rNDnuMZAe4Sc/edit#slide=id.g3091bd844fe_0_818)
 2. Live coding lecture.
-3. Break.
+3. [Logistic Regression 'by hand' in Google Sheets](https://docs.google.com/spreadsheets/d/145juPdygOA6Wp5m2innO7s_rV-7tLNcJQdFRzOtYkME/edit?gid=249611664#gid=249611664)
+4. Break.
 5. Exercise in breakout rooms.
 
 # HW DUE NEXT WEEK [~2hrs]
