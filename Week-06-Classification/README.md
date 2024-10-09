@@ -3,7 +3,6 @@
 
 ## Class Agenda
 0. Remind me to start recording.
-0. Announce Kenneth new student looking for team. 
 0. Review last weeks HW (~15 min)
 0. Update your fork.
 	* `git fetch upstream`
