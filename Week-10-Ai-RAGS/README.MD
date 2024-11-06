@@ -2,7 +2,7 @@
 
 ## Agenda
 0. Remind me to start recording. 
-0. PROJECTS DUE WEEK 13 [Dec 03]!  
+0. PROJECTS DUE WEEK 13 [Dec 04]!  
 0. Review of rest of semester. 
 ```
 Week 10 [Nov  04-08]: AI part 2 - RAGS 
